@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1091481387950",
+    "firebase_url": "https://a4sproyect.firebaseio.com",
+    "project_id": "a4sproyect",
+    "storage_bucket": "a4sproyect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091481387950:android:99522050563360ff",
+        "android_client_info": {
+          "package_name": "com.hourscollective"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091481387950-789sfd3k671hk7b4pb8g6v7f7m66m45r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgGAyTd2qgcysYB-ayDs_z9M1X2Al5mwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091481387950-789sfd3k671hk7b4pb8g6v7f7m66m45r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
